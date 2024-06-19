@@ -1,5 +1,5 @@
 ### Então, esse sou eu!👋
-
+#### O que faço? 👷‍♂️
 #### Com o que faço? 💻
 <p align="start">
     <img width="25em" height="25em" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"/>
@@ -21,7 +21,7 @@
   </a>
 </div>
 
-#### Tô sempre por aqui! 📫
+#### Onde me encontrar? 📫
 <p align="start">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>   
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
