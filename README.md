@@ -1,12 +1,5 @@
 ### Então, esse sou eu!👋
 
-#### Tô sempre por aqui! 📫
-<p align="start">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>   
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</p>
-
 #### Com que faço? 💻
 <p align="start">
     <img width="25em" height="25em" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"/>
@@ -27,6 +20,13 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutra-rafael&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
+
+#### Tô sempre por aqui! 📫
+<p align="start">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>   
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</p>
 
 
 <!--
