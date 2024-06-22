@@ -4,7 +4,7 @@ Tinha deixado de lado um pouco essa plataforma, mas agora vou voltar a contribui
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou ansioso para conectar e colaborar com outros profissionais da área!
 
 ## 👷‍♂️ O que faço? 
-Sou um desenvolvedor full stack com mais de 10 anos de experiência na criação de soluções robustas e eficientes para a indústria. Ao longo da minha carreira, tive a oportunidade de trabalhar com uma ampla gama de tecnologias, o que me permitiu desenvolver um conjunto de habilidades diversificadas e adaptáveis. Aqui está um pouco mais sobre minha trajetória e as ferramentas que utilizo:
+Desenvolvedor full stack com mais de 10 anos de experiência na criação de soluções robustas e eficientes para a indústria. Ao longo da minha carreira, tive a oportunidade de trabalhar com uma ampla gama de tecnologias, o que me permitiu desenvolver um conjunto de habilidades diversificadas e adaptáveis. Aqui está um pouco mais sobre minha trajetória e as ferramentas que utilizo:
 
 ## 💻 Com o que faço?
 <p align="start">
