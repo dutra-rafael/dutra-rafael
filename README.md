@@ -1,7 +1,7 @@
 ## 👋 Então, esse sou eu!
 
 ## 👷‍♂️ O que faço? 
-Sou um desenvolvedor full stack com mais de 10 anos de experiência na criação de soluções robustas e eficientes para indústria. Ao longo da minha carreira, tive a oportunidade de trabalhar com uma ampla gama de tecnologias e frameworks, o que me permitiu desenvolver um conjunto de habilidades diversificadas e adaptáveis. Aqui está um pouco mais sobre minha trajetória e as ferramentas que utilizo:
+Sou um desenvolvedor full stack com mais de 10 anos de experiência na criação de soluções robustas e eficientes para a indústria. Ao longo da minha carreira, tive a oportunidade de trabalhar com uma ampla gama de tecnologias, o que me permitiu desenvolver um conjunto de habilidades diversificadas e adaptáveis. Aqui está um pouco mais sobre minha trajetória e as ferramentas que utilizo:
 
 ## 💻 Com o que faço?
 <p align="start">
