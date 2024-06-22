@@ -29,8 +29,8 @@ Sou um desenvolvedor full stack com mais de 10 anos de experiência na criação
 - **JavaScript / TypeScript**: Implementação de lógica de front-end e melhoria da experiência do usuário.
   
 ## 🎓 Formação Acadêmica
-- **Análise e Desenvolvimento de Sistemas** - Universidade Cruzeiro do Sul
-- **Técnico em Informática** - SENAC/SP
+- **Análise e Desenvolvimento de Sistemas** - Universidade Cruzeiro do Sul - UNICSUL
+- **Técnico em Informática** - Serviço Nacional de Aprendizagem Comercial - SENAC/SP
 
 <div align="center">
   <a href="https://github.com/dutra-rafael">
