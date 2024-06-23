@@ -1,7 +1,7 @@
 ## 👋 Então, esse sou eu!
 Sou um cara que curti muito tecnologia e inovação, sempre tentando entender e desvendar o que há por trás das novas tecnologias e tendêncidas do mercado. Estou sempre disposto à contribuir com o conhecimento dos meus pares e absorver também as experiencias deles. Sempre aberto a contribuir para projetos interessantes e impactantes.
 Tinha deixado de lado um pouco essa plataforma, mas agora vou voltar a contribuir! 🎆
-Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou ansioso para conectar e colaborar com outros profissionais da área!
+Sinta-se à vontade para explorar os repositórios e entrar em contato comigo. Estou ansioso para conectar e colaborar com outros profissionais da área!
 
 ## 👷‍♂️ O que faço? 
 Desenvolvedor full stack com mais de 10 anos de experiência na criação de soluções robustas e eficientes para a indústria. Ao longo da minha carreira, tive a oportunidade de trabalhar com uma ampla gama de tecnologias, o que me permitiu desenvolver um conjunto de habilidades diversificadas e adaptáveis. Aqui está um pouco mais sobre minha trajetória e as ferramentas que utilizo:
