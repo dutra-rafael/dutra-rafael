@@ -22,13 +22,13 @@ Desenvolvedor full stack com mais de 10 anos de experiência na criação de sol
 
 #### Backend:
 - **C# / .NET**: Desenvolvimento de aplicações escaláveis e de alto desempenho.
-- **Java**: Criação de soluções robustas e seguras.
+- **Java / SpringBoot**: Criação de soluções robustas e seguras.
 - **Visual Basic / VB6**: Manutenção e atualização de sistemas legados.
 - **Banco de Dados**: Expertise em MariaDB, MySQL e MSSQL para design e otimização de bancos de dados.
 
 #### Frontend:
 - **Angular**: Desenvolvimento de interfaces de usuário dinâmicas e responsivas.
-- **HTML / CSS**: Criação de layouts atraentes e funcionais.
+- **HTML / CSS / Bootstrap**: Criação de layouts atraentes, funcionais e responsivos.
 - **JavaScript / TypeScript**: Implementação de lógica de front-end e melhoria da experiência do usuário.
   
 ## 🎓 Formação Acadêmica
@@ -46,7 +46,6 @@ Desenvolvedor full stack com mais de 10 anos de experiência na criação de sol
     <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutra-rafael&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-
 
 <!--
 **dutra-rafael/dutra-rafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
