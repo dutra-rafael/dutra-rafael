@@ -1,6 +1,6 @@
 ## 👋 Então, esse sou eu!
-Sou um cara que curti muito tecnologia e inovação, sempre tentando entender e desvendar o que há por trás das novas tecnologias e tendêncidas do mercado. Estou sempre disposto à contribuir com o conhecimento dos meus pares e absorver também as experiencias deles. Sempre aberto a contribuir para projetos interessantes e impactantes.
-Tinha deixado de lado um pouco essa plataforma, mas agora vou voltar a contribuir! 🎆
+Desenvolvedor, sempre tentando entender e desvendar o que há por trás das novas tecnologias e tendêncidas do mercado. Estou sempre disposto à contribuir com o conhecimento dos meus pares e absorver também as experiencias deles. Sempre aberto a contribuir para projetos interessantes e impactantes.
+Tinha deixado de lado um pouco essa plataforma, mas agora estou de volta! 🎆
 Sinta-se à vontade para explorar os repositórios e entrar em contato comigo. Estou ansioso para conectar e colaborar com outros profissionais da área!
 
 ## 👷‍♂️ O que faço? 
